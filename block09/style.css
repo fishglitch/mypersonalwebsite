@@ -104,8 +104,13 @@ h3:hover { background-color: #f6fbd3;
 
 }
 
-form{
-  
-  padding-left: 40px;
-  padding-top: 40px;
+form {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.form1{
+max-width: 100px;
+justify-content: center;
+
 }
